@@ -1,0 +1,29 @@
+/*
+Theme Name: MH Magazine lite Child 02
+Theme URI: https://www.mhthemes.com/themes/mh/magazine-lite/
+Template: mh-magazine-lite
+Author: MH Themes
+Author URI: https://www.mhthemes.com/
+Description: MH Magazine lite is one of the most popular free responsive magazine, news, newspaper and blog WordPress themes for modern online magazines, dynamic news websites, professional blogs and other editorial websites. This free magazine theme is fast, secure, SEO friendly and perfectly suitable for topics like international news, politics, lifestyle, fashion, business, sports, gadgets, travel or anything else. If you would like to gain access to more awesome features, flexible custom widgets and useful options to customize your website, you can upgrade to the premium version of MH Magazine and take your website to the next level. You can also learn more about this dynamic magazine WordPress theme on the MH Themes website.
+Tags: one-column,two-columns,left-sidebar,right-sidebar,flexible-header,custom-background,custom-colors,custom-header,custom-logo,custom-menu,featured-images,full-width-template,theme-options,threaded-comments,footer-widgets,translation-ready,rtl-language-support,blog,entertainment,news
+Version: 2.7.5.1517860975
+Updated: 2018-02-05 16:02:55
+
+*/
+
+
+/*Header*/
+.mh-header-image{ width:900px; padding-left: 80px; padding-right: 100px; }
+
+/*Navigation*/
+.mh-main-nav-wrap { background: #1C4781; }
+.mh-main-nav li:hover { background: #D69200; }
+.mh-main-nav { text-transform: uppercase; border-bottom: 5px solid #D69200; }
+.mh-main-nav .menu > .current-menu-item { background: #D69200; }
+
+/*Footer*/
+.mh-footer { font-size: 13px; font-size: 0.8125rem; color: #fff; padding: 25px 25px 0; background: #1C4781; }
+.mh-copyright-wrap { padding: 10px 25px; background: #1C4781; border-top:  5px solid #D69200; }
+
+/*Widget*/ 
+.mh-widget-title { position: relative; font-size: 16px; font-size: 1rem; padding-bottom: 5px; margin-bottom: 20px; margin-bottom: 1.25rem; text-transform: uppercase; border-bottom: 3px solid #D69200; }

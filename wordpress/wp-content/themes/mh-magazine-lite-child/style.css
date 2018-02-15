@@ -1,0 +1,50 @@
+/*
+Theme Name: MH Magazine lite Child 02
+Theme URI: https://www.mhthemes.com/themes/mh/magazine-lite/
+Template: mh-magazine-lite
+Author: MH Themes
+Author URI: https://www.mhthemes.com/
+Description: MH Magazine lite is one of the most popular free responsive magazine, news, newspaper and blog WordPress themes for modern online magazines, dynamic news websites, professional blogs and other editorial websites. This free magazine theme is fast, secure, SEO friendly and perfectly suitable for topics like international news, politics, lifestyle, fashion, business, sports, gadgets, travel or anything else. If you would like to gain access to more awesome features, flexible custom widgets and useful options to customize your website, you can upgrade to the premium version of MH Magazine and take your website to the next level. You can also learn more about this dynamic magazine WordPress theme on the MH Themes website.
+Tags: one-column,two-columns,left-sidebar,right-sidebar,flexible-header,custom-background,custom-colors,custom-header,custom-logo,custom-menu,featured-images,full-width-template,theme-options,threaded-comments,footer-widgets,translation-ready,rtl-language-support,blog,entertainment,news
+Version: 2.7.5.1517860975
+Updated: 2018-02-05 16:02:55
+
+*/
+
+
+/*Header*/
+.mh-header-image{ width:900px; padding-left: 80px; padding-right: 100px; }
+
+/*Navigation*/
+.mh-main-nav-wrap { background: #1C4781; }
+.mh-main-nav li:hover { background: #D69200; }
+.mh-main-nav { text-transform: uppercase; border-bottom: 5px solid #D69200; }
+.mh-main-nav .menu > .current-menu-item { background: #D69200; }
+.mh-header.image {}
+
+/*Footer*/
+.mh-footer { font-size: 13px; font-size: 0.8125rem; color: #fff; padding: 25px 25px 0; background: #1C4781; }
+.mh-copyright-wrap { padding: 10px 25px; background: #1C4781; border-top:  5px solid #D69200; }
+
+/*Widget*/ 
+.mh-widget-title { position: relative; font-size: 16px; font-size: 1rem; padding-bottom: 5px; margin-bottom: 20px; margin-bottom: 1.25rem; text-transform: uppercase; border-bottom: 3px solid #D69200; }
+#text-9,#text-10,#text-11,#archives-5,#recent-posts-5 { -webkit-box-shadow: 14px 7px 41px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 14px 7px 41px 1px rgba(0,0,0,0.75); box-shadow: 14px 7px 41px 1px rgba(0,0,0,0.75); background-color:background: rgba(32,55,76,1); background: -moz-linear-gradient(left, rgba(32,55,76,1) 0%, rgba(32,55,76,1) 7%, rgba(37,80,136,1) 61%, rgba(39,95,144,1) 90%, rgba(55,159,174,1) 100%); background: -webkit-gradient(left top, right top, color-stop(0%, rgba(32,55,76,1)), color-stop(7%, rgba(32,55,76,1)), color-stop(61%, rgba(37,80,136,1)), color-stop(90%, rgba(39,95,144,1)), color-stop(100%, rgba(55,159,174,1))); background: -webkit-linear-gradient(left, rgba(32,55,76,1) 0%, rgba(32,55,76,1) 7%, rgba(37,80,136,1) 61%, rgba(39,95,144,1) 90%, rgba(55,159,174,1) 100%); background: -o-linear-gradient(left, rgba(32,55,76,1) 0%, rgba(32,55,76,1) 7%, rgba(37,80,136,1) 61%, rgba(39,95,144,1) 90%, rgba(55,159,174,1) 100%); background: -ms-linear-gradient(left, rgba(32,55,76,1) 0%, rgba(32,55,76,1) 7%, rgba(37,80,136,1) 61%, rgba(39,95,144,1) 90%, rgba(55,159,174,1) 100%); background: linear-gradient(to right, rgba(32,55,76,1) 0%, rgba(32,55,76,1) 7%, rgba(37,80,136,1) 61%, rgba(39,95,144,1) 90%, rgba(55,159,174,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20374c', endColorstr='#379fae', GradientType=1 ); border-radius: 10px 5px; border: 1px solid #D69200; border-radius: 0px 10px; color: whitesmoke; }
+
+.mh-widget-title-inner{color: whitesmoke}
+#text-6{border-bottom: 3px solid black}
+
+        
+    
+    /* font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; color: #ffffff; font-size: 16px; font-weight: 400; text-align: center; background: #1C4781; margin: 0 0 25px; overflow: hidden; padding: 20px; */ /* border-radius: 35px 0px 35px 0px; -moz-border-radius: 35px 0px 35px 0px;-moz-linear-gradient(left, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%) -webkit-border-radius: 35px 0px 35px 0px;* */ /*border: 2px solid #1C1F81;) }*/
+
+#mh-mobile { background: rgba(55,159,174,1);
+background: -moz-linear-gradient(left, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(55,159,174,1)), color-stop(0%, rgba(55,159,174,1)), color-stop(10%, rgba(39,95,144,1)), color-stop(39%, rgba(37,80,136,1)), color-stop(93%, rgba(32,55,76,1)), color-stop(100%, rgba(32,55,76,1)));
+background: -webkit-linear-gradient(left, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%);
+background: -o-linear-gradient(left, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%);
+background: -ms-linear-gradient(left, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%);
+background: linear-gradient(to right, rgba(55,159,174,1) 0%, rgba(55,159,174,1) 0%, rgba(39,95,144,1) 10%, rgba(37,80,136,1) 39%, rgba(32,55,76,1) 93%, rgba(32,55,76,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#379fae', endColorstr='#20374c', GradientType=1 ); }
+
+
